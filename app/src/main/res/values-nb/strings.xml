@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BirthdayHelper">BursdagHjelper</string>
+    <string name="main_activity_name">Kontakter</string>
+    <string name="birthday_mesasge_summary">Har bursdag og SMS er sendt!</string>
+    <string name="sms_service_message">SMS service starter</string>
+    <string name="number_length">\u0020 siffer lang</string>
+    <string name="name_input_validation">Fornavn kan ikke være tom</string>
+    <string name="lastname_input_validation">Etternavn kan ikke være tom</string>
+    <string name="phonenumber_input_validation">Telefonnummer kan ikke være tom</string>
+    <string name="phonenumber_message">Telefonnummeret må være \u0020</string>
+    <string name="dialog_cancel">Avbryt</string>
+    <string name="dialog_delete">Slett</string>
+    <string name="dialog_mesasge">Denne kontakten vil bli slettet</string>
+    <string name="add_contact_activity_title">Kontakt informasjon</string>
+    <string name="add_contact_activity_title2">Rediger kontakt</string>
+    <string name="birthday_message">Gratulerer med dagen!</string>
+    <string name="snackbar_contact_deleted">\u0020 er slettet</string>
+    <string name="snackbar_contact_added">\u0020 er lagt til</string>
+    <string name="snackbar_contact_update">\u0020 er oppdatert</string>
+    <string name="edittext_birthday_hint">Bursdag SMS tekst</string>
+    <string name="edittext_firstname">Fornavn</string>
+    <string name="edittext_last_name">Etternavn</string>
+    <string name="edittext_phone_number">Telefonnummer</string>
+    <string name="calendar_birthday_text">Bursdags dato</string>
+    <string name="delete">Slett kontakt</string>
+    <string name="stop">Stopp Service</string>
+    <string name="start">Start Service</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="settings">Innstillinger</string>
+    <string name="service_wait">Venter på SMS Service</string>
+    <string name="save_contact">Lagre</string>
+    <string name="settings_activity_title">Innstillinger</string>
+    <string name="alarm_time">Alarm tid</string>
+    <string name="sms_service_on_message">SMS Service er slått på</string>
+    <string name="sms_service_off_message">SMS Service er slått av</string>
+    <string name="snackbar_sms_validation">SMS teksten kan ikke være tom</string>
+</resources>

@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/icon_delete"
+        android:supportsRtl="true"
+        app:showAsAction="always"
+        android:title="@string/delete"
+        android:icon="@drawable/ic_delete_white_24dp"/>
+    <item android:id="@+id/icon_start"
+        android:supportsRtl="true"
+        app:showAsAction="always"
+        android:title="@string/start"
+        android:icon="@drawable/ic_play_circle_filled_white_24dp"/>
+
+    <item android:id="@+id/icon_stop"
+        android:supportsRtl="true"
+        app:showAsAction="always"
+        android:title="@string/stop"
+        android:icon="@drawable/ic_pause_circle_outline_white_24dp"/>
+
+    <item android:id="@+id/icon_settings"
+        android:supportsRtl="true"
+        app:showAsAction="always"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings_white_24dp"/>
+
+    <item android:id="@+id/save_contact"
+        android:supportsRtl="true"
+        app:showAsAction="always"
+        android:title="@string/save_contact"
+        android:icon="@drawable/ic_done_white_24dp"/>
+</menu>
