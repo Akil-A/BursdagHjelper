@@ -1,2 +1,2 @@
-# BursdagHjelper - HiOA - Applikasjonsutvikling
+# BursdagHjelper - HiOA - Applikasjonsutvikling - Mappe 2
 
